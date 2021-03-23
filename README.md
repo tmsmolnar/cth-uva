@@ -1,7 +1,7 @@
 # cth-uva
 Coding the Humanities individual project @ Universiteit van Amsterdam
 
-# Coding the Humanities
+## Coding the Humanities
 
 This project was made for the Coding the Humanities course at the Universiteit van Amsterdam by Tamás Molnár
 
@@ -27,7 +27,7 @@ For more explantion of the package see:
 from functions import [name of the function]
 '''
 
-# Running the assignment file
+## Running the assignment file
 
 To run the main.py file, type python main.py
 
@@ -36,7 +36,7 @@ The program will ask for the user's input to decide which datasets and sheets to
     pydoc main
 
 ## Author
-**2021 Tamás Molnár**
+**2021 - Tamás Molnár**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
