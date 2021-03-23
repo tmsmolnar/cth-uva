@@ -23,9 +23,8 @@ For more explantion of the package see:
 
 ## Usage of functions package
 
-'''
-from functions import [name of the function]
-'''
+    from functions import [name of the function]
+
 
 ## Running the assignment file
 
